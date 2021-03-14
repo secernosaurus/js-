@@ -1,0 +1,2 @@
+# js-
+js常用函数  Updated 10 seconds ago js常用函数，包含数据类型判断，数组去重，字符串去重，深拷贝、浅拷贝，reserve的实现，圣杯式继承，找出字符串中第一次只出现一次的字母，找元素的第n级父元素，返回元素的第n个兄弟节点，封装mychildren，解决浏览器的兼容问题，判断元素有没有子元素，我一个元素插入到另一个元素的后面，返回当前的时间（年月日时分秒），获得滚动条的滚动距离，获得视口的尺寸，获取任一元素的任意属性，绑定事件的兼容代码，解绑事件，取消冒泡的兼容代码，检验字符串是否是回文，兼容getElementsByClassName方法，运动函数，弹性运动，封装自己的forEach方法，封装自己的filter方法，数组map方法，数组every方法，数组reduce方法，获取url中的参数，数组排序，遍历Dom树，原生js封装ajax，异步加载script，cookie管理，实现bind()方法，实现call()方法，实现apply()方法，防抖，节流，requestAnimFrame兼容性方法，cancelAnimFrame兼容性方法，jsonp底层方法，获取url上的参数，格式化时间，验证邮箱的正则表达式，函数柯里化，大数相加，单例模式
